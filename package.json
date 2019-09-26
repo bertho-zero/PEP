@@ -1,6 +1,6 @@
 {
   "name": "@openagenda/pepjs",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "main": "dist/pep.js",
   "description": "Polyfill of the PointerEvents W3C spec",
   "author": {
